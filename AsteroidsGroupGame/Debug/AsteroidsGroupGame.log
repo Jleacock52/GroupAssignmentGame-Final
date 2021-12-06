@@ -1,0 +1,73 @@
+﻿  AsteroidsGroupGame.cpp
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\entity.h(27,90): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\entity.h(27,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\entity.h(88,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\entity.h(89,99): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\entity.h(89,57): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\player.h(24,37): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\player.h(25,37): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\asteroid.h(18,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\asteroid.h(41,90): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\asteroid.h(41,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\AsteroidsGroupGame.cpp(15,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\AsteroidsGroupGame.cpp(139,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\AsteroidsGroupGame.cpp(142,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\AsteroidsGroupGame.cpp(142,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\AsteroidsGroupGame.cpp(147,67): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\AsteroidsGroupGame.cpp(147,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\AsteroidsGroupGame.cpp(148,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\AsteroidsGroupGame.cpp(160,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\AsteroidsGroupGame.cpp(173,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\AsteroidsGroupGame.cpp(181,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\AsteroidsGroupGame.cpp(183,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\AsteroidsGroupGame.cpp(197,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\AsteroidsGroupGame.cpp(205,24): warning C4018: '<': signed/unsigned mismatch
+  AsteroidsGroupGame.vcxproj -> C:\Users\Jack Leacock\source\repos\AsteroidsGroupGame\Debug\AsteroidsGroupGame.exe
